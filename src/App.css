@@ -1,8 +1,15 @@
 .App {
-  text-align: center;
+  background: rgba(255, 255, 255, .5);
+  width: 80%;
+  margin: 1.5% auto;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px #000;
+  padding: .5% 2% 5%;
 }
 .Header {
   color: #443e3e;
-  text-shadow: 1px 1px 5px #fff;
+  text-shadow: 1px 1px 3px #fff;
+  text-align: center;
+  margin-bottom:3.5%;
 }
 /* write your parent styles in here for your App.js */
